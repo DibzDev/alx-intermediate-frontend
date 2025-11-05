@@ -1,0 +1,7 @@
+1. Installed Node.js (v20.16.0) and npm on my machine.
+2. Attempted to install Sass v3.7.4 as instructed, but it is not available in the npm registry.
+3. Installed the latest stable version of Sass instead using:
+   npm install sass
+4. Verified the installation with:
+   npx sass --version
+5. Sass was successfully installed and ready for use.
